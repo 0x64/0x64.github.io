@@ -1,5 +1,5 @@
 ---
-permalink: /dco/
+permalink: /Enact_Developer’s_Certificate_of_Origin_v1.0/
 title: Enact Developer Certificate of Origin
 layout: page
 ---
